@@ -59,12 +59,12 @@ For power rating, please consider an average of about __160mA__ per module.
 - 1x 5-digit
 - 1x 6-digit
 
-![Front](./DispBrd_OnePiece/images/One_Piece_All.PNG "One-piece designs, front")
+![Front](./DispBrd_OnePiece/images/One_Piece_All.png "One-piece designs, front")
 
 ### Modular design - Driver boards
 
-![Front](./DispBrd_Modular/images/Modular_driver_F.PNG "Modular designs, Driver, front")
-![Rear](./DispBrd_Modular/images/Modular_driver_R.PNG "Modular designs, Driver, rear")
+![Front](./DispBrd_Modular/images/Modular_driver_F.png "Modular designs, Driver, front")
+![Rear](./DispBrd_Modular/images/Modular_driver_R.png "Modular designs, Driver, rear")
 
 ### Modular design - Digit boards
 
@@ -79,8 +79,8 @@ For power rating, please consider an average of about __160mA__ per module.
 - 2x 3-digit
 - 6x 1-digit
 
-![Front](./DispBrd_Modular/images/Modular_disp_F.PNG "Modular designs, Digit panels, front")
-![Rear](./DispBrd_Modular/images/Modular_disp_R.PNG "Modular designs, Digit panels, rear")
+![Front](./DispBrd_Modular/images/Modular_disp_F.png "Modular designs, Digit panels, front")
+![Rear](./DispBrd_Modular/images/Modular_disp_R.png "Modular designs, Digit panels, rear")
 
 ## Components
 
